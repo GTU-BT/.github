@@ -73,6 +73,7 @@ Topluluğumuza katılmak için:
 - Teknolojiye meraklı olman  
 - Öğrenmeye açık olman  
 - Takım ruhuna inanman yeterli!
+
 Üye olmak veya ekibe katılmak için Web sitemizdeki formlara bekliyoruz 😉
 -https://gtubt.com
 
