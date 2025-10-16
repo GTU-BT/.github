@@ -89,6 +89,17 @@ Topluluğumuza katılmak için:
 
 ---
 
+## 🦊 Habgi IT Alanına Yatkın Olduğunu Öğrenmeye Hazır Mısın?
+
+- Anketimizi cevaplamayı ve sondaki formu doldurmayı unutma 😉.
+  
+Ankete aşağıdaki linkten erişebilirsin 👇
+
+👉 [Tilki Anketi](https://gtu-bt.github.io/GTUBT-Tilki-Testi/)
+
+
+
+
 > “Birlikte kod yazıyor, birlikte gelişiyoruz.”  
 > — **Gebze Teknik Üniversitesi Bilgisayar Topluluğu 🦊**
 
