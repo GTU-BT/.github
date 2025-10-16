@@ -89,7 +89,7 @@ Topluluğumuza katılmak için:
 
 ---
 
-## 🦊 Habgi IT Alanına Yatkın Olduğunu Öğrenmeye Hazır Mısın?
+## 🦊 Hangi IT Alanına Yatkın Olduğunu Öğrenmeye Hazır Mısın?
 
 - Anketimizi cevaplamayı ve sondaki formu doldurmayı unutma 😉.
   
